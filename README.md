@@ -2,4 +2,5 @@
 
 ## CTF Problems of all domain (Web, Forensics, Cryptography, RE, Pwn)
 
-Add writeups, solution in pull requests
+Fork and clone the repo to start practice CTF
+Want to contribute to CTF-x then fork and upload your files and create a pull request, we will review it and merge into master.
